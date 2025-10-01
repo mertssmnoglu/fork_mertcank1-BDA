@@ -9,4 +9,4 @@
 
 - Mail
 
-[<img src=https://www.svgrepo.com/show/530453/mail-reception.svg alt="drawing" width="100"/>](amertcankose@ticaret.edu.tr)
+[<img src=https://www.svgrepo.com/show/530453/mail-reception.svg alt="drawing" width="100"/>](mailto:amertcankose@ticaret.edu.tr)
