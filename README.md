@@ -10,7 +10,12 @@ Ders notlarına ve python kodlarına github'daki repos üzerinden erişebilirsin
 
 Derslerimize ilişkin Python uygulamaları [**colab**](https://colab.research.google.com/) üzerinden işlenmektedir. Daha önce Python üzerinden uygulama yapmadıysanız, buradan kolaylıkla uygulamalar yapabilirsiniz.
 
-Hadi Başlayalım !
+**Hadi Başlayalım !**
+
+## KAYNAKÇA
+
+<img src="https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/BDA%20referance.jpg" alt="drawing" width="200"/>
+
 
 
 
