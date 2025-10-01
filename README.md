@@ -5,7 +5,7 @@ $\textcolor{blue}{\textbf{Life is Blue}}$
 
 Ders notlarına bu github'daki repos üzerinden erişebilirsiniz
 
-<img src="https://github.com/mertcank1/Academic-Resume2/blob/main/Ali_bowling.gif?raw=true" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="drawing" width="200"/>
 
 
 ## İletişim için aşağıdaki postaya tıklayın! :point_down:
