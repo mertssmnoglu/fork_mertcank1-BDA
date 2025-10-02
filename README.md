@@ -16,6 +16,17 @@ Derslerimize ilişkin Python uygulamaları [**colab**](https://colab.research.go
 
 <img src="https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/BDA%20referance.jpg" alt="drawing" width="200"/>
 
+
+import pyspark
+from pyspark.sql import SparkSession
+from pyspark.sql import SQLContext
+
+#Create SparkSession
+spark = SparkSession.builder.master("local[1]").appName("SparkByExamples.com").getOrCreate()
+sc=spark.sparkContext
+sqlc = SQLContext(sc)
+
+#################################################3
 from pyspark import SparkContext
 
 from pyspark.sql import SQLContext
