@@ -18,12 +18,17 @@ Derslerimize ilişkin Python uygulamaları [**colab**](https://colab.research.go
 
 
 import pyspark
+
 from pyspark.sql import SparkSession
+
 from pyspark.sql import SQLContext
 
 #Create SparkSession
+
 spark = SparkSession.builder.master("local[1]").appName("SparkByExamples.com").getOrCreate()
+
 sc=spark.sparkContext
+
 sqlc = SQLContext(sc)
 
 #################################################3
