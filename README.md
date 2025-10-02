@@ -17,49 +17,6 @@ Derslerimize ilişkin Python uygulamaları [**colab**](https://colab.research.go
 <img src="https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/BDA%20referance.jpg" alt="drawing" width="200"/>
 
 
-import pyspark
-
-from pyspark.sql import SparkSession
-
-from pyspark.sql import SQLContext
-
-#Create SparkSession
-
-spark = SparkSession.builder.master("local[1]").appName("SparkByExamples.com").getOrCreate()
-
-sc=spark.sparkContext
-
-sqlc = SQLContext(sc)
-
-#################################################
-
-from pyspark import SparkContext
-
-from pyspark.sql import SQLContext
-
-sc=spark.sparkContext
-
-sqlc = SQLContext(sc)
-
-from pyspark.sql import *
-
-na_schema = Row("Name","Age")
-
-row1 = na_schema("Ankit", 23)
-
-row2 = na_schema("Tyler", 26)
-
-row3 = na_schema("Preity", 36
-
-na_list = [row1, row2, row3]
-
-df_na = spark.createDataFrame(na_list)
-
-type(df_na)
-
-df_na.show()
-
-
 ## İletişim için aşağıdaki postaya tıklayın! :point_down:
 
 [<img src=https://www.svgrepo.com/show/530453/mail-reception.svg alt="drawing" width="100"/>](mailto:amertcankose@ticaret.edu.tr)
