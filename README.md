@@ -8,7 +8,7 @@ Ders notlarına ve python kodlarına github'daki repos üzerinden erişebilirsin
 <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="drawing" width="200"/>
 
 
-Derslerimize ilişkin Python uygulamaları [**colab**](https://colab.research.google.com/) üzerinden işlenmektedir. Daha önce Python üzerinden uygulama yapmadıysanız, buradan kolaylıkla uygulamalar yapabilirsiniz.
+Derslerimize ilişkin Python uygulamaları [**colab**](https://colab.research.google.com/) üzerinden işlenmektedir. Daha önce Python üzerinden uygulama yapmadıysanız, buradan kolaylıkla uygulamalar yapabilirsiniz. Ödev Son Teslim Tarihi: **11.12.2025** 
 
 **Hadi Başlayalım !**
 
