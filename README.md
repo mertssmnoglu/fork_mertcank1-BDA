@@ -35,7 +35,7 @@ Derslerimize ilişkin Python uygulamaları [**colab**](https://colab.research.go
 
 **Önemli Hususlar**
 
-<img src="https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/bilgi1.jpg" alt="drawing" width="500"/>/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/bilgi2.jpg" alt="drawing" width="500"/>
+<img src="https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/bilgi1.jpg" alt="drawing" width="500"/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/bilgi2.jpg" alt="drawing" width="500"/>
 
 Ödev Son Teslim Tarihi: **11.12.2025** 
 
