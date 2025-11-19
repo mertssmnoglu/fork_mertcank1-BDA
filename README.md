@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/bilgi1.jpg
 Ödev Son Teslim Tarihi: **11.12.2025** 
 
 
-<img src="[https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png](https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/bilgi1.jpg)" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/mertcank1/BDA/refs/heads/main/bilgi1.jpg" alt="drawing" width="200"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="drawing" width="200"/>
 
